@@ -241,7 +241,7 @@ Example:
 
 ## 📌 Future Improvements
 
-* TF-IDF analysis
+* TF-IDF (Term Frequency-Inverse Document Frequency) analysis
 * Named Entity Recognition (NER)
 * Topic modeling (LDA)
 * Export results to CSV
